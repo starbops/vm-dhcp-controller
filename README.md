@@ -1,5 +1,7 @@
 # VM DHCP Controller
 
+This repository is the preliminary work of the [harvester/vm-dhcp-controller](https://github.com/harvester/vm-dhcp-controller) project. All the new changes will be updated there.
+
 ## Features
 
 - DHCP service for virtual machines
